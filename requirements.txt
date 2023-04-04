@@ -1,0 +1,13 @@
+# pytorch>=1.6.0  # You should install pytorch matched with your own cuda version
+transformers
+numpy
+pandas
+scikit-learn
+tokenizers
+seqeval
+tqdm
+tensorboard
+tensorboardx  # tensorboard --logdir=./output_dir/runs/ --host=0.0.0.0
+datasets
+deepspeed
+accelerate
